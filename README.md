@@ -1,2 +1,2 @@
-# thefirstproject
-this is a description
+#this is my first project
+this is our notes
